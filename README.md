@@ -3,6 +3,28 @@
 ## 📊 Overview
 An interactive Excel-based sales analytics dashboard designed to track and analyze sales performance metrics for a Nigerian business operation. The dashboard provides comprehensive insights into sales patterns, conversion rates, customer demographics, and product performance across multiple dimensions.
 
+## 📊 Dashboard Visualizations
+
+<p align="center">
+  <img src="visualizations/dashboard_viz_3_executive_summary.png" alt="Executive Summary" width="800"/>
+</p>
+
+### Detailed Analytics
+
+<table>
+  <tr>
+    <td><img src="visualizations/dashboard_viz_1_overview_fixed.png" alt="Key Metrics" width="400"/></td>
+    <td><img src="visualizations/dashboard_viz_4_conversion.png" alt="Conversion Analysis" width="400"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="visualizations/dashboard_viz_2_breakdown.png" alt="Performance Breakdown" width="800"/></td>
+  </tr>
+</table>
+
+[View all visualizations →](visualizations/)
+
+---
+
 ## 🎯 Key Features
 
 ### Core Metrics
